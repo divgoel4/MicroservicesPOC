@@ -1,0 +1,9 @@
+{
+  "realm": "iGrocery",
+  "auth-server-url": "http://localhost:8800/auth",
+  "ssl-required": "external",
+  "resource": "iGrocery-Service",
+  "credentials": {
+    "secret": "28608ea8-82a4-4895-8e45-6362ff624d38"
+  }
+}
